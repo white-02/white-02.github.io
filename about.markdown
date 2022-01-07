@@ -14,4 +14,5 @@ permalink: /about/
 - ruby
 
 ##### その他リンク
-- [aaa]()
+- [google](https://www.google.co.jp/?noj=1)
+- [youtube](https://www.youtube.com/)
