@@ -30,6 +30,10 @@ github_username:  white-02
 sass:
     style: compressed
 
+
+plugins:
+  - jekyll-seo-tag
+
 # Build settings
 # theme: minima
 # plugins:
