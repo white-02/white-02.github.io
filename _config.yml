@@ -31,9 +31,16 @@ filmarks_username: white-02
 sass:
     style: compressed
 
+# pagination:
+#   enabled: true
+#   per_page: 10
+#   permalink: '/page/:num/'
+#   title: ':title - :num'
+#   sort_reverse: true
 
 plugins:
   - jekyll-seo-tag
+  # - jekyll-paginate-v2
 
 # Build settings
 # theme: minima
