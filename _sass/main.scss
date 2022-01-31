@@ -341,3 +341,18 @@ table td { border: 1px solid #e8e8e8; }
   //   margin-right: 0; 
   // }
 }
+
+// new class
+.page-navigation {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  .prev {
+    width: -webkit-fill-available;
+  }
+  .next {
+    display: flex;
+    justify-content: end;
+    width: -webkit-fill-available;
+  }
+}
